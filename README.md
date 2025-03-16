@@ -3,6 +3,9 @@
   <img width="800" height="500" src="https://github.com/dg2c4/Configuracion-Servicios-Cisco-Packet-Tracer/blob/main/Assets/Cisco%20Packet%20Tracer%20Configure%20Services.webp" alt="RedesComunicacionI">
 </p>
 
+## *Objetivo:*
+El propósito de este ejercicio es diseñar e implementar una topología de red en Cisco Packet Tracer, simulando la estructura de una red empresarial que conecta servidores y clientes. Se busca configurar y verificar la conectividad entre dispositivos, asignar direcciones IP y habilitar servicios esenciales como FTP, HTTP, TFTP, DNS, NTP, EMAIL y SYSLOG.
+
 ## *Instalaciones requeridas:*
   • Descarga de Cisco Packet Tracer:
   
@@ -28,7 +31,7 @@
 
 ## *Entregable:*
 • Archivo de la configuración de servicios.pkt (Packet Tracer) del archivo correspondiente.\
-• Documento información y diagrama resultante del ejercicio realizado.
+• Documentación de información y diagrama teorico para realizar el ejercicio.
 
 
 ## *Systems engineering:*
