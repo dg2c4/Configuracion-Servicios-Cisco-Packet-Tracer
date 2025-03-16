@@ -21,6 +21,11 @@
       c. Tercer equipo: Última dirección IP utilizable de la subred.
     3. Configura los servicios en los servidores (ejemplo: habilitar FTP en el servidor FTP).
 
+## *Resultado del trabajo realizado:*
+<p align="center">
+  <img width="800" height="500" src="https://github.com/dg2c4/Configuracion-Servicios-Cisco-Packet-Tracer/blob/main/Assets/Configuracion-Servicios-Diagrama.png" alt="RedesComunicacionI">
+</p>
+
 ## *Entregable:*
 • Archivo de la configuración de servicios.pkt (Packet Tracer) del archivo correspondiente.\
 • Documento información y diagrama resultante del ejercicio realizado.
